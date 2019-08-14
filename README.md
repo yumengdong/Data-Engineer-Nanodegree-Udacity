@@ -7,3 +7,7 @@ Udacity Data Analyst Nanodegree Projects
   - Define the Fact and Dimension tables, import song data and logs data stored in JSON files and insert data into tables
   - Write an ETL pipeline that transfers data into tables in Postgres using Python and SQL
   
+## Project 2. Data Modeling with Cassandra
+- <A href='https://github.com/yumengdong/Data-Engineer-Nanodegree-Udacity/blob/master/Project_Data%20Modeling%20with%20Apache%20Cassandra/Project_1B_%20Project_Template.ipynb'>Data Modeling with Cassandra</A><BR>
+	- Data modeling with Apache Cassandra and complete an ETL pipeline using Python.
+  - Model the data in JSON format and wrangle them into star schema in Apache Cassandra to run queries
