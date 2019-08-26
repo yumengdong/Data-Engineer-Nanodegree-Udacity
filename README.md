@@ -11,3 +11,8 @@ Udacity Data Analyst Nanodegree Projects
 - <A href='https://github.com/yumengdong/Data-Engineer-Nanodegree-Udacity/blob/master/Project_Data%20Modeling%20with%20Apache%20Cassandra/Project_1B_%20Project_Template.ipynb'>Data Modeling with Cassandra</A><BR>
 	- Data modeling with Apache Cassandra and complete an ETL pipeline using Python
   - Model the data in JSON format and wrangle them into star schema in Apache Cassandra to run queries
+
+## Project 3. Data Warehouses on AWS
+- <A href='https://github.com/yumengdong/Data-Engineer-Nanodegree-Udacity/blob/master/Project_data%20modeling%20with%20postgres/README.md'>Data Warehouses on AWS</A><BR>
+  - Build an ETL that loads song json data from Amazon S3, 
+  - Stages data in Amazon Redshift, then transforms data into dimensional tables
