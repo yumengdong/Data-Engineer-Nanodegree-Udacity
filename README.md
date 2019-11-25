@@ -14,5 +14,7 @@ Udacity Data Analyst Nanodegree Projects
 
 ## Project 3. Data Warehouses on AWS
 - <A href='https://github.com/yumengdong/Data-Engineer-Nanodegree-Udacity/blob/master/Project_Data%20Warehouse/README.md'>Data Warehouses on AWS</A><BR>
+  - Create an IMA role using python AWS SDK boto3
+  - Create the AWS Redshift cluster and access the cluster endpoint using JupyterNotebook
   - Build an ETL that loads song json data from Amazon S3, 
   - Stages data in Amazon Redshift, then transforms data into dimensional tables
