@@ -22,3 +22,9 @@ Udacity Data Analyst Nanodegree Projects
   - Create the AWS Redshift cluster and access the cluster endpoint using JupyterNotebook
   - Build an ETL that loads song json data from Amazon S3 to be processed into a star schema
   - Stages data in Amazon Redshift, then transforms data into dimensional tables
+
+## Project 4. Data Lakes with Apache Spark
+- <A href='https://github.com/yumengdong/Data-Engineer-Nanodegree-Udacity/blob/master/Project_Data%20Warehouse'>Data Lakes with Apache Spark</A><BR>
+- Bild an ETL pipeline for a data lake. 
+- Load data from S3, process the data into analytics tables using Spark, and load them back into S3. 
+- Deploy this Spark process on a cluster using AWS.
