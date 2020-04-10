@@ -1,6 +1,8 @@
 # Data-Engineer-Nanodegree-Udacity
 Udacity Data Analyst Nanodegree Projects
 
+<img src="https://media-exp1.licdn.com/dms/image/C5612AQG2UUbFIFjo5Q/article-inline_image-shrink_1500_2232/0?e=1591833600&v=beta&t=YHNZbwDRffFK2aju70KOiAHJaGhXJHFIEelo8i_sIAA">
+
 ## Project 1. Data Modeling with Postgres
 - <A href='https://github.com/yumengdong/Data-Engineer-Nanodegree-Udacity/blob/master/Project_data%20modeling%20with%20postgres/README.md'>Data Modeling with Postgres</A><BR>
   - Model user activity data to create a database in Postgres for a music streaming app
