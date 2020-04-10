@@ -8,6 +8,12 @@ Create ETL data pipeline for analysis that transfer data from JSON files in Post
 4. etl.py: reads and processes files from song_data and log_data and loads them into your tables. 
 5. sql_queries.py contains all your sql queries, and is imported into the last three files above.
 
+## Schema 
+Create start schema. 
+Fact Table: 
+  songplays
+Dimension Tables:
+  users, songs, artists, time
 
 ## Run it
 ```bash
