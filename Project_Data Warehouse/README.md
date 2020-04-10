@@ -24,9 +24,9 @@ Create Table Schemas:
 7. Test by running `create_tables.py` and checking the table schemas in your redshift database. You can use Query Editor in the AWS Redshift console for this.
 
 ## Files used in this Project
-1. create_table.py: create your fact and dimension tables for the star schema in Redshift.
-2. etl.py: load data from S3 into staging tables on Redshift and then process that data into your analytics tables on Redshift.
-3. sql_queries.py: define  SQL statements, which will be imported into the two other files above.
+- create_table.py: create your fact and dimension tables for the star schema in Redshift.
+- etl.py: load data from S3 into staging tables on Redshift and then process that data into your analytics tables on Redshift.
+- sql_queries.py: define  SQL statements, which will be imported into the two other files above.
 
 ## Build ETL Pipeline
 - Implement the logic in `etl.py` to load data from S3 to staging tables on Redshift.
