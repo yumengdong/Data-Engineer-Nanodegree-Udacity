@@ -25,6 +25,6 @@ Udacity Data Analyst Nanodegree Projects
 
 ## Project 4. Data Lakes with Apache Spark
 - <A href='https://github.com/yumengdong/Data-Engineer-Nanodegree-Udacity/blob/master/Project_Data%20Warehouse'>Data Lakes with Apache Spark</A><BR>
-- Bild an ETL pipeline for a data lake. 
-- Load data from S3, process the data into analytics tables using Spark, and load them back into S3. 
-- Deploy this Spark process on a cluster using AWS.
+  - Bild an ETL pipeline for a data lake. 
+  - Load data from S3, process the data into analytics tables using Spark, and load them back into S3. 
+  - Deploy this Spark process on a cluster using AWS.
