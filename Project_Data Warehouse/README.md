@@ -34,6 +34,14 @@ Create Table Schemas:
 - Test by running `etl.py` after running `create_tables.py` and running the analytic queries on your Redshift database to compare your results with the expected results.
 - Delete your redshift cluster when finished.
 
+## Steps
+- Write the configuration of AWS Cluster, store the important parameter in some other file
+- Configuration of boto3 which is an AWS SDK for Python
+- Create an IAM User Role, Assign appropriate permissions and create the Redshift Cluster
+- Get the Value of Endpoint and Role for put into main configuration file
+- Authorize Security Access Group to Default TCP/IP Address
+- Launch database connectivity configuration
+- Go to Terminal write the command "python create_tables.py" and then "etl.py"
 
 ## Run it
 ```bash
