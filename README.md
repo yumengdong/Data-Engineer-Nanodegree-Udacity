@@ -4,7 +4,7 @@ Udacity Data Analyst Nanodegree Projects
 <img src="https://media-exp1.licdn.com/dms/image/C5612AQG2UUbFIFjo5Q/article-inline_image-shrink_1500_2232/0?e=1591833600&v=beta&t=YHNZbwDRffFK2aju70KOiAHJaGhXJHFIEelo8i_sIAA">
 
 ## Project 1. Data Modeling with Postgres
-- <A href='https://github.com/yumengdong/Data-Engineer-Nanodegree-Udacity/blob/master/Project_data%20modeling%20with%20postgres/README.md'>Data Modeling with Postgres</A><BR>
+- <A href='https://github.com/yumengdong/Data-Engineer-Nanodegree-Udacity/blob/master/Project_data%20modeling%20with%20postgres'>Data Modeling with Postgres</A><BR>
   - Model user activity data to create a database in Postgres for a music streaming app
   - Developed a Star Schema database using optimized definitions of Fact and Dimension tables. Normalization of tables.
   - Define the Fact and Dimension tables, import song data and logs data stored in JSON files and insert data into tables
@@ -17,7 +17,7 @@ Udacity Data Analyst Nanodegree Projects
   - Model the data in JSON format and wrangle them into star schema in Apache Cassandra to run queries
 
 ## Project 3. Data Warehouses on AWS
-- <A href='https://github.com/yumengdong/Data-Engineer-Nanodegree-Udacity/blob/master/Project_Data%20Warehouse/README.md'>Data Warehouses on AWS</A><BR>
+- <A href='https://github.com/yumengdong/Data-Engineer-Nanodegree-Udacity/blob/master/Project_Data%20Warehouse'>Data Warehouses on AWS</A><BR>
   - Create an IMA role using python AWS SDK boto3
   - Create the AWS Redshift cluster and access the cluster endpoint using JupyterNotebook
   - Build an ETL that loads song json data from Amazon S3 to be processed into a star schema
