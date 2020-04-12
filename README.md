@@ -24,7 +24,7 @@ Udacity Data Analyst Nanodegree Projects
   - Stages data in Amazon Redshift, then transforms data into dimensional tables
 
 ## Project 4. Data Lakes with Apache Spark
-- <A href='https://github.com/yumengdong/Data-Engineer-Nanodegree-Udacity/blob/master/Project_Data%20Warehouse'>Data Lakes with Apache Spark</A><BR>
+- <A href='https://github.com/yumengdong/Data-Engineer-Nanodegree-Udacity/tree/master/Project_Data%20Lake%20with%20Spark'>Data Lakes with Apache Spark</A><BR>
   - Create an EMR Hadoop Cluster
   - Bild an ETL pipeline for a data lake
   - Load data from S3, process the data into analytics tables using Spark, and load them back into S3
