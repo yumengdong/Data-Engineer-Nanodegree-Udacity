@@ -20,7 +20,7 @@ Two datasets that reside in S3. Here are the S3 links for each:
 - artists - artists in music database
 - time - timestamps of records in songplays broken down into specific units
 
-## Fils
+## Files
 - `etl.py` reads data from S3, processes that data using Spark and writes them back to S3
 - `dl.cfg` contains AWS Credentials. 
 
