@@ -25,12 +25,14 @@ Udacity Data Analyst Nanodegree Projects
 
 ## Project 4. Data Lakes with Apache Spark
 - <A href='https://github.com/yumengdong/Data-Engineer-Nanodegree-Udacity/blob/master/Project_Data%20Warehouse'>Data Lakes with Apache Spark</A><BR>
-  - Bild an ETL pipeline for a data lake. 
-  - Load data from S3, process the data into analytics tables using Spark, and load them back into S3. 
-  - Deploy this Spark process on a cluster using AWS.
+  - Create an EMR Hadoop Cluster
+  - Bild an ETL pipeline for a data lake
+  - Load data from S3, process the data into analytics tables using Spark, and load them back into S3
+  - Deploy this Spark process on a cluster using AWS
   
 ## Project 5. Data Pipelines with Apache Airflow
-- <A href='https://github.com/yumengdong/Data-Engineer-Nanodegree-Udacity/blob/master/Project_Data%20Warehouse'>Data Lakes with Apache Spark</A><BR>
+- <A href='https://github.com/yumengdong/Data-Engineer-Nanodegree-Udacity/blob/master/Project_Data%20Warehouse'>Data Pipelines with Apache Airflow</A><BR>
   - Use the up-and-coming tool Apache Airflow, developed and open-sourced by Airbnb and the Apache Foundation
+  - Write custom operators to perform tasks such as staging data, filling the data warehouse, and validation through data quality checks
   - Load data from S3, process the data into analytics tables using Spark, and load them back into S3
   - Deploy this Spark process on a cluster using AWS
